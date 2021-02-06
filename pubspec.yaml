@@ -1,0 +1,25 @@
+name: otp_firebase
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  http:
+  shared_preferences:
+  provider:
+  mobx:
+  flutter_mobx:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  mobx_codegen:
+flutter:
+  uses-material-design: true
