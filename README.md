@@ -1,4 +1,4 @@
-# Flutter MobX Phone Auth
+# Flutter MobX Firebase Phone Auth
 
 ## MobX as state management
 
